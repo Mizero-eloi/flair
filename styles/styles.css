@@ -1,0 +1,10 @@
+.login{
+    background-image: url("../public/signup-image.png");
+    background-size: cover;
+}
+.login-side{
+    background-color: #F5F5F5;
+}
+input{
+    background-color: #F5F5F5;
+}
