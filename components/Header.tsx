@@ -2,9 +2,8 @@ import React from 'react'
 import Link from 'next/link'
 // import logo from "../public/flairlogo.svg"
 import { AiOutlineShopping, AiOutlineSearch, AiOutlineUser } from 'react-icons/ai'
-const Navbar = () => {
+const Header= () => {
   return (
-    //adding responsiveness to the navbar
 
     <header className="bg-white">
       <nav className="mx-auto flex max-w-7xl items-center justify-between p-3 lg:px-8 border-b" aria-label="Global">
@@ -33,4 +32,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default Header
