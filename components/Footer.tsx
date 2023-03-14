@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { AiOutlineFacebook,AiOutlineTwitter,AiOutlineLinkedin,AiOutlineDribbble } from 'react-icons/ai'
 const Footer = () => {
   return (
-<div className='bg-slate-50  text-center text-500 w-full white:bg-500 dark:text-100 lg:text-left'>
+<div className='bg-slate-50  text-center text-500 w-full white:bg-500 dark:text-100 lg:text-left mt-10'>
   <div className='mx-2 py-8 px-20 text-center  md:text-left'>
     <div className='grid-1 grid gap-8 md:grid-cols-2 lg:grid-cols-4'>
       <div className=''>
